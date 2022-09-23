@@ -1,0 +1,29 @@
+.app{
+  text-align: center;
+  display: grid;
+  width:100%;
+  height: 300px;
+  background-color: rgb(255, 102, 0);
+  color: white;
+}
+
+
+
+.a1{
+  justify-content: center;
+  width: 100px;
+  height: 40px;
+  background-color: orange;
+  margin-bottom: 200px;
+  margin-left: 10px;
+  float: left;
+}
+
+.a2{
+  justify-content: center;
+  width: 100px;
+  height: 40px;
+  background-color: orange;
+  margin-bottom: 200px;
+  margin-left: 10px;
+}
